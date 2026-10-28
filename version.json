@@ -1,8 +1,8 @@
-{
+ "LabsVault": {
   "version": "1.2.1",
   "download_url": "https://1212-jp.github.io/Techtonic-Labs/LabsVault_Setup.exe",
   "release_notes": "Labs Vault security improvements and bug fixes.",
-  "mandatory": false,
+  "mandatory": true,
 
   "tmusic": {
     "version": "1.1.1",
