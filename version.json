@@ -5,9 +5,9 @@
   "mandatory": false,
 
   "tmusic": {
-    "version": "1.1",
-    "download_url": "https://1212-jp.github.io/Techtonic-Labs/TMusic_Setup.exe",
-    "release_notes":" Added vocal remover Feature.\n Player settings added\n And minor bug changes.",
-    "mandatory": false
+    "version": "1.1.1",
+    "download_url": "https://github.com/techtoniclabs11y/techtoniclabs11y.github.io/releases/download/v1.1.1/TMusic-Setup-v1.1.1.exe",
+    "release_notes": "Fixed AI Engine first-time setup with progress bar,\n DNS fallback,\n and clean uninstaller."
+"mandatory": false    
   }
 }
